@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+/* Optional styling */
+body {
+  margin: 30px;
+  font-family: Arial, sans-serif;
+}
+input {
+  margin: 5px 0;
+}
